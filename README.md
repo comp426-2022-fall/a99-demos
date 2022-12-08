@@ -8,7 +8,8 @@ See illustration below.
 
 | Team Name | Demo video link | Project repo | 
 |:--- |:--- |:--- |
-| exampleteam | https://youtu.be/dQw4w9WgXcQ | https://github.com/comp426-2022-spring/a99-exampleteam |
+| Group 16 | [Demo Video](https://unc.zoom.us/rec/share/-wU0_bqt3oY87nGqbVkPpuBHRoKslYaUYUQzW1lO1ZGVUIhIncljZRb913DzrOSV.S1Z626Tg1X1KUxLr) 
+Passcode: JhUNIt0@ | https://github.com/comp426-2022-fall/a99-Group-16 |
 
 ## Propose changes and create pull request
 
