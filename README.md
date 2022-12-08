@@ -8,7 +8,7 @@ See illustration below.
 
 | Team Name | Demo video link | Project repo | 
 |:--- |:--- |:--- |
-| exampleteam | [https://www.youtube.com/watch?v=iHBTHuRKkMc]| https://github.com/comp426-2022-spring/a99-team15 |
+| exampleteam | [https://www.youtube.com/watch?v=iHBTHuRKkMc]| https://github.com/comp426-2022-fall/a99-team15 |
 
 ## Propose changes and create pull request
 
