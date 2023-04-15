@@ -7,7 +7,7 @@ To save it, Make sure to click the green button at the bottom that says "Propose
 See illustration below.
 
 | Team Name | Demo video link | Project repo | 
-|:--- |:--- |:--- |
+|https://github.com/comp426-2022-fall/a99-group28/blob/main/video1164987996.mp4 
 | exampleteam | https://youtu.be/dQw4w9WgXcQ | https://github.com/comp426-2022-spring/a99-exampleteam |
 | Team 17 | https://youtu.be/pvL3FhmgTIo | https://github.com/comp426-2022-fall/a99-team-17 |
 | Group 23 | https://youtu.be/N2cDCBbfnEk | https://github.com/comp426-2022-fall/a99-group23 |
