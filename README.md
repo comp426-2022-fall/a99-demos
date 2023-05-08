@@ -11,6 +11,7 @@ See illustration below.
 | exampleteam | https://youtu.be/dQw4w9WgXcQ | https://github.com/comp426-2022-spring/a99-exampleteam |
 | Team 17 | https://youtu.be/pvL3FhmgTIo | https://github.com/comp426-2022-fall/a99-team-17 |
 | Group 23 | https://youtu.be/N2cDCBbfnEk | https://github.com/comp426-2022-fall/a99-group23 |
+| BetterCat | [Summary Video](https://youtu.be/Jt9JYFjRbI8) + [In-Depth Video and Backend Review](https://youtu.be/QcuoLk-9-bc) | https://github.com/comp426-2023-spring/a99-bettercat |
 
 ## Propose changes and create pull request
 
