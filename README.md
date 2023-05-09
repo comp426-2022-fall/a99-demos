@@ -7,7 +7,7 @@ To save it, Make sure to click the green button at the bottom that says "Propose
 See illustration below.
 
 | Team Name | Demo video link | Project repo | 
-|:--- |:--- |:--- |
+| Planify |[:---](https://youtu.be/O6J7Dw2X7rI) |[:---](https://github.com/sokhnarfall/planify.git) |
 | exampleteam | https://youtu.be/dQw4w9WgXcQ | https://github.com/comp426-2022-spring/a99-exampleteam |
 
 ## Propose changes and create pull request
